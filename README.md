@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Curriculum Vitæ
+Curriculum Vitæ of Brian Gouws
